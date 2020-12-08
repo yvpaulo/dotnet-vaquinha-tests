@@ -1,4 +1,6 @@
 # dotnet-vaquinha-tests
+Este projeto foi apresentado durante o bootcamp Avanade Fullstack Developer focados em C# e Angular. Nesta live tivemos uma visão geral do ambente de testes, deste testes de unidade até testes de integração e automatizados.
+
 Projeto Base para Testes - .Net Core  
 
 ## Digital Innovation One
